@@ -10,3 +10,11 @@ This script checks every product image and if the image is rectangular or square
 
 for the shopify api you only need the store url and the store access token with product read and write permissions
 to get the token go to Apps and Sales channel > Develop Apps > create an App
+
+Before:\
+5568 × 3712 \
+<img src="sample.jpg" width="200">
+
+After:\
+2048 x 2048\
+<img src="sample_resized.jpg" width="200">
